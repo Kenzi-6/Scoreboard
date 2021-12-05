@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Футбол</string>
+    <string name="Btn">Добавить</string>
+    <string name="Btn_reset">Сброс</string>
+</resources>
